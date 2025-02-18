@@ -13,3 +13,4 @@ def binary_search(list,items):
             low = mid + 1
 
     return NUll
+#the runtime for binary search is O(log n)
